@@ -1,2 +1,0 @@
-- name: Semantic Release Action
-  uses: codfish/semantic-release-action@v3.1.0
