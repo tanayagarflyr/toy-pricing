@@ -1,5 +1,16 @@
 # OOMS Pricing Changelog
 
+## [2.0.0](https://github.com/tanayagarflyr/toy-pricing/compare/pricing-v1.5.0...pricing-v2.0.0) (2024-03-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* **something:** breaking change test (#17)
+
+### Features
+
+* **something:** breaking change test ([#17](https://github.com/tanayagarflyr/toy-pricing/issues/17)) ([80aeaea](https://github.com/tanayagarflyr/toy-pricing/commit/80aeaeae6de773d141fc92b23ed9b6bcdfb0bcc0))
+
 ## [1.5.0](https://github.com/tanayagarflyr/toy-pricing/compare/pricing-v1.4.1...pricing-v1.5.0) (2024-03-28)
 
 
