@@ -40,19 +40,6 @@
                 }
             }
         ],
-        [
-            "@semantic-release/changelog",
-            {
-                "changelogFile": "CHANGELOG.md",
-                "changelogTitle": "# OOMS Pricing Changelog"
-            }
-        ],
-        [
-            "@semantic-release/git",
-            {
-                "assets": ["CHANGELOG.md"]
-            }
-        ],
         "@semantic-release/github"
     ]
 }
