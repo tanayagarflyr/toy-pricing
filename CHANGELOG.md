@@ -1,5 +1,12 @@
 # OOMS Pricing Changelog
 
+## [2.1.0](https://github.com/tanayagarflyr/toy-pricing/compare/pricing-v2.0.2...pricing-v2.1.0) (2024-03-28)
+
+
+### Features
+
+* JIRA-123 description ([#22](https://github.com/tanayagarflyr/toy-pricing/issues/22)) ([6ac85fc](https://github.com/tanayagarflyr/toy-pricing/commit/6ac85fc9f0ad9b9aad337724c228e07320e6e98b))
+
 ## [2.0.2](https://github.com/tanayagarflyr/toy-pricing/compare/pricing-v2.0.1...pricing-v2.0.2) (2024-03-28)
 
 
