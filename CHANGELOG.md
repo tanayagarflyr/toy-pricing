@@ -1,5 +1,16 @@
 # OOMS Pricing Changelog
 
+## [1.4.0](https://github.com/tanayagarflyr/toy-pricing/compare/pricing-v1.3.1...pricing-v1.4.0) (2024-03-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* This is bump major way 1 (#14)
+
+### Features
+
+* This is bump major way 1 ([#14](https://github.com/tanayagarflyr/toy-pricing/issues/14)) ([6ae773c](https://github.com/tanayagarflyr/toy-pricing/commit/6ae773cc130e6d466b41c87b6feebf7b6f04262f))
+
 ## [1.3.1](https://github.com/tanayagarflyr/toy-pricing/compare/pricing-v1.3.0...pricing-v1.3.1) (2024-03-28)
 
 
