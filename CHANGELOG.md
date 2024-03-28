@@ -1,5 +1,17 @@
 # OOMS Pricing Changelog
 
+## [2.0.2](https://github.com/tanayagarflyr/toy-pricing/compare/pricing-v2.0.1...pricing-v2.0.2) (2024-03-28)
+
+
+### Performance Improvements
+
+* **api:** super fast wooooo ([#21](https://github.com/tanayagarflyr/toy-pricing/issues/21)) ([a3630ac](https://github.com/tanayagarflyr/toy-pricing/commit/a3630acb59001615745d9692ad110bb7b1385d4b))
+
+
+### Documentation
+
+* **api:** this is a doc ([#20](https://github.com/tanayagarflyr/toy-pricing/issues/20)) ([570e68f](https://github.com/tanayagarflyr/toy-pricing/commit/570e68fc2796d602ac3bedfa181bff479ff5e885))
+
 ## [2.0.1](https://github.com/tanayagarflyr/toy-pricing/compare/pricing-v2.0.0...pricing-v2.0.1) (2024-03-28)
 
 
