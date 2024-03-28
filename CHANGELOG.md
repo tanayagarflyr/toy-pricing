@@ -1,5 +1,12 @@
 # OOMS Pricing Changelog
 
+## [1.3.0](https://github.com/tanayagarflyr/toy-pricing/compare/pricing-v1.2.0...pricing-v1.3.0) (2024-03-28)
+
+
+### Features
+
+* **main:** APP-1 this is good title ([#9](https://github.com/tanayagarflyr/toy-pricing/issues/9)) ([8e423b7](https://github.com/tanayagarflyr/toy-pricing/commit/8e423b737d98c4fede70fc9ba45d39e57d7225a0))
+
 ## [1.2.0](https://github.com/tanayagarflyr/toy-pricing/compare/pricing-v1.1.1...pricing-v1.2.0) (2024-03-27)
 
 
